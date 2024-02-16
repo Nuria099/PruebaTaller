@@ -1,2 +1,9 @@
 Nuria García Valdecasas
 21 años
+Para subir algo:
+Git status
+Git add .
+Git status
+Git commit -m "jasdfjasldfj"
+Git branch nombre(para crear branch)
+Git checkout nombre (para cambiar de branch)
